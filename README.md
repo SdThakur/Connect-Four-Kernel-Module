@@ -1,6 +1,6 @@
 Project 3 - Connect Four Kernel Module
 
-Contact Name : Satya Thakur, Student Id : UW61778, Email address : UW61778@UMBC.EDU
+Contact Name : Satya Thakur
 
 This is a Linux kernel module that implements a Connect Four game as a character device driver.
 
